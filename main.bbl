@@ -1,0 +1,95 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{shan2016deep}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=SY}{%
+         family={Shan},
+         familyi={S\bibinitperiod},
+         given={Ying},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HTR}{%
+         family={Hoens},
+         familyi={H\bibinitperiod},
+         given={T\bibnamedelima Ryan},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=JJ}{%
+         family={Jiao},
+         familyi={J\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WH}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Haijing},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=YD}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Dong},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Mao},
+         familyi={M\bibinitperiod},
+         given={JC},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{SY+1}
+    \strng{fullhash}{SYHTRJJWHYDMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Proceedings of the 22nd ACM SIGKDD international
+  conference on knowledge discovery and data mining}
+    \field{pages}{255\bibrangedash 262}
+    \field{title}{Deep crossing: Web-scale modeling without manually crafted
+  combinatorial features}
+    \field{year}{2016}
+  \endentry
+
+  \entry{history_graph}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=ç}{%
+         family={çŽ‹å–†},
+         familyi={ç\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ç1}
+    \strng{fullhash}{ç1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{ç}
+    \field{sortinithash}{ç}
+    \field{title}{çŽ‹å–†çš„æœºå™¨å­¦ä¹ ç¬”è®°}
+    \verb{url}
+    \verb https://www.zhihu.com/question/20830906/answer/681688041
+    \endverb
+  \endentry
+\enddatalist
+\endinput
