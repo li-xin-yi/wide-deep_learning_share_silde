@@ -17,6 +17,192 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
+  \entry{cheng2016wide}{inproceedings}{}
+    \true{moreauthor}
+    \name{author}{10}{}{%
+      {{hash=CHT}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Heng-Tze},
+         giveni={H\bibinithyphendelim T\bibinitperiod},
+      }}%
+      {{hash=KL}{%
+         family={Koc},
+         familyi={K\bibinitperiod},
+         given={Levent},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Harmsen},
+         familyi={H\bibinitperiod},
+         given={Jeremiah},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Shaked},
+         familyi={S\bibinitperiod},
+         given={Tal},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Chandra},
+         familyi={C\bibinitperiod},
+         given={Tushar},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=AH}{%
+         family={Aradhye},
+         familyi={A\bibinitperiod},
+         given={Hrishi},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=AG}{%
+         family={Anderson},
+         familyi={A\bibinitperiod},
+         given={Glen},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Corrado},
+         familyi={C\bibinitperiod},
+         given={Greg},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Chai},
+         familyi={C\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=IM}{%
+         family={Ispir},
+         familyi={I\bibinitperiod},
+         given={Mustafa},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{CHT+1}
+    \strng{fullhash}{CHTKLHJSTCTAHAGCGCWIM+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{Proceedings of the 1st workshop on deep learning for
+  recommender systems}
+    \field{pages}{7\bibrangedash 10}
+    \field{title}{Wide \& deep learning for recommender systems}
+    \field{year}{2016}
+  \endentry
+
+  \entry{guo2017deepfm}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GH}{%
+         family={Guo},
+         familyi={G\bibinitperiod},
+         given={Huifeng},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=TR}{%
+         family={Tang},
+         familyi={T\bibinitperiod},
+         given={Ruiming},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Yunming},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Zhenguo},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=HX}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Xiuqiang},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GH+1}
+    \strng{fullhash}{GHTRYYLZHX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{DeepFM: a factorization-machine based neural network for CTR
+  prediction}
+    \field{journaltitle}{arXiv preprint arXiv:1703.04247}
+    \field{year}{2017}
+  \endentry
+
+  \entry{qu2016product}{inproceedings}{}
+    \name{author}{7}{}{%
+      {{hash=QY}{%
+         family={Qu},
+         familyi={Q\bibinitperiod},
+         given={Yanru},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Cai},
+         familyi={C\bibinitperiod},
+         given={Han},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=RK}{%
+         family={Ren},
+         familyi={R\bibinitperiod},
+         given={Kan},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Weinan},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wen},
+         familyi={W\bibinitperiod},
+         given={Ying},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{QY+1}
+    \strng{fullhash}{QYCHRKZWYYWYWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Q}
+    \field{sortinithash}{Q}
+    \field{booktitle}{2016 IEEE 16th International Conference on Data Mining
+  (ICDM)}
+    \field{pages}{1149\bibrangedash 1154}
+    \field{title}{Product-based neural networks for user response prediction}
+    \field{year}{2016}
+  \endentry
+
   \entry{shan2016deep}{inproceedings}{}
     \name{author}{6}{}{%
       {{hash=SY}{%
@@ -70,6 +256,135 @@
     \field{pages}{255\bibrangedash 262}
     \field{title}{Deep crossing: Web-scale modeling without manually crafted
   combinatorial features}
+    \field{year}{2016}
+  \endentry
+
+  \entry{wang2017deep}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=WR}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Ruoxi},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=FB}{%
+         family={Fu},
+         familyi={F\bibinitperiod},
+         given={Bin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Fu},
+         familyi={F\bibinitperiod},
+         given={Gang},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Mingliang},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{WR+1}
+    \strng{fullhash}{WRFBFGWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{Proceedings of the ADKDD'17}
+    \field{pages}{12}
+    \field{title}{Deep \& cross network for ad click predictions}
+    \field{year}{2017}
+  \endentry
+
+  \entry{xiao2017attentional}{article}{}
+    \name{author}{6}{}{%
+      {{hash=XJ}{%
+         family={Xiao},
+         familyi={X\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YH}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Hao},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HX}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Xiangnan},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Hanwang},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Fei},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CTS}{%
+         family={Chua},
+         familyi={C\bibinitperiod},
+         given={Tat-Seng},
+         giveni={T\bibinithyphendelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{XJ+1}
+    \strng{fullhash}{XJYHHXZHWFCTS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{X}
+    \field{sortinithash}{X}
+    \field{title}{Attentional factorization machines: Learning the weight of
+  feature interactions via attention networks}
+    \field{journaltitle}{arXiv preprint arXiv:1708.04617}
+    \field{year}{2017}
+  \endentry
+
+  \entry{zhang2016deep}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=ZW}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Weinan},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Du},
+         familyi={D\bibinitperiod},
+         given={Tianming},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ZWDTWJ1}
+    \strng{fullhash}{ZWDTWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{booktitle}{European conference on information retrieval}
+    \field{pages}{45\bibrangedash 57}
+    \field{title}{Deep learning over multi-field categorical data}
     \field{year}{2016}
   \endentry
 

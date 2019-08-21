@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.22)  21 AUG 2019 03:15
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.22)  21 AUG 2019 18:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1377,12 +1377,12 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl
-Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 80 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 83 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 88 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 393 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 395 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 402 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
 )
 Package biblatex Info: Reference section=0 on input line 18.
 Package biblatex Info: Reference segment=0 on input line 18.
@@ -1393,35 +1393,35 @@ Package biblatex Info: Reference segment=0 on input line 18.
 ]
 File: history.jpg Graphic file (type bmp)
 <history.jpg>
-LaTeX Font Info:    Try loading font information for U+msa on input line 32.
+LaTeX Font Info:    Try loading font information for U+msa on input line 31.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 32.
+LaTeX Font Info:    Try loading font information for U+msb on input line 31.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <14.4> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 32.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 32.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <7> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 32.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <9> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 32.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 32.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 32.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 31.
 
 
 LaTeX Font Warning: Font shape `TU/PingFangSC(0)/m/it' undefined
-(Font)              using `TU/PingFangSC(0)/m/n' instead on input line 32.
+(Font)              using `TU/PingFangSC(0)/m/n' instead on input line 31.
 
 
 LaTeX Font Warning: Font shape `TU/lmss/m/sc' in size <9> not available
-(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 32.
+(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 31.
 
 
 Package fontspec Warning: Font "STFangsong" does not contain requested Script
@@ -1450,7 +1450,7 @@ Package fontspec Info: Font family 'STFangsong(0)' created for font
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-Overfull \vbox (4.86523pt too high) detected at line 32
+Overfull \vbox (4.86523pt too high) detected at line 31
  []
 
 [3
@@ -1462,17 +1462,81 @@ File: framework/deepcross.pdf Graphic file (type pdf)
 
 ]
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 55.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 53.
  [5
 
 ]
 File: res_unit.pdf Graphic file (type pdf)
 <use res_unit.pdf>
 
-Overfull \vbox (25.58015pt too high) detected at line 68
+Overfull \vbox (4.42773pt too high) detected at line 66
  []
 
 [6
+
+]
+File: framework/fnn.pdf Graphic file (type pdf)
+<use framework/fnn.pdf>
+ [7
+
+]
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 89.
+ [8
+
+]
+File: FNN.png Graphic file (type bmp)
+<FNN.png>
+ [9
+
+]
+File: framework/pnn.pdf Graphic file (type pdf)
+<use framework/pnn.pdf>
+ [10
+
+] [11
+
+]
+File: framework/wdl.pdf Graphic file (type pdf)
+<use framework/wdl.pdf>
+
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 139--139
+ [] 
+ []
+
+[12
+
+]
+File: framework/wide.pdf Graphic file (type pdf)
+<use framework/wide.pdf>
+ [13
+
+]
+File: framework/deep.pdf Graphic file (type pdf)
+<use framework/deep.pdf>
+ [14
+
+]
+File: framework/deepfm.pdf Graphic file (type pdf)
+<use framework/deepfm.pdf>
+ [15
+
+]
+File: framework/dcn.pdf Graphic file (type pdf)
+<use framework/dcn.pdf>
+ [16
+
+]
+File: framework/afm.pdf Graphic file (type pdf)
+<use framework/afm.pdf>
+ [17
+
+]
+File: dropout.pdf Graphic file (type pdf)
+<use dropout.pdf>
+ [18
+
+] [19
 
 ]
 \tf@nav=\write7
@@ -1484,13 +1548,13 @@ Overfull \vbox (25.58015pt too high) detected at line 68
 \tf@snm=\write9
 \openout9 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 206.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FE5F3463D907B505CBA9DB730DEF4EF2.
+(rerunfilecheck)             Checksum: EFDC74D662BBBB66E569BBD4BC1250B0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1500,12 +1564,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42378 strings out of 492916
- 866400 string characters out of 6133345
- 1150999 words of memory out of 5000000
- 45737 multiletter control sequences out of 15000+600000
- 542633 words of font info for 113 fonts, out of 8000000 for 9000
+ 42546 strings out of 492916
+ 871384 string characters out of 6133345
+ 1157000 words of memory out of 5000000
+ 45881 multiletter control sequences out of 15000+600000
+ 544250 words of font info for 128 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 74i,15n,99p,819b,5330s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,15n,99p,819b,5393s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.xdv (6 pages, 160052 bytes).
+Output written on main.xdv (19 pages, 507028 bytes).

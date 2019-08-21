@@ -1,5 +1,17 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {1}{History}{3}{0}{1}
+\beamer@sectionintoc {1}{Deep Cross}{4}{0}{1}
 \defcounter {refsection}{0}\relax 
-\beamer@subsectionintoc {1}{1}{Milestones}{4}{0}{1}
+\beamer@sectionintoc {2}{Factorisation Machine supported Neural Network (FNN)}{7}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Product-based Neural Network (PNN)}{10}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Wide \& Deep Learning}{11}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{DeepFM}{15}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{Deep\&Cross Network (DCN)}{16}{0}{6}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {7}{Attentional Factorization Machines (AFM)}{17}{0}{7}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {8}{Implements}{18}{0}{8}
